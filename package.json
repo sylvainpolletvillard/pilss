@@ -1,0 +1,20 @@
+{
+  "name": "pilss",
+  "version": "0.0.1",
+  "description": "Progressive Image Loading by Source Shuffling",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "cheerio": "^0.19.0",
+    "gm": "^1.21.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0",
+    "q": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sylvain Pollet-Villard",
+  "license": "MIT",
+  "devDependencies": { }
+}
